@@ -5,5 +5,5 @@
 1. run by `npm run start`
 
 ## api call
-you can call from postman or ThunderClient(VSCode Extension)
-`localhost:5000/api/visitors?date=1404153000000&ignore=avila_adobe`
+1. you can call from postman or ThunderClient(VSCode Extension)
+1. `localhost:5000/api/visitors?date=1404153000000&ignore=avila_adobe`
